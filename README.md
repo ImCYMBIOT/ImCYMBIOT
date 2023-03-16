@@ -2,4 +2,5 @@
 - 👀 I’m interested in AI and ML, C++, python, Flutter, MongoDb and Graphic Designing
 - 🌱 I’m currently learning NodeJS, MongoDB, Flutter
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me on Discord @ [Cymbiote#0450](https://discord.com/users/539946199109730304)
+- 📫 How to reach me on Discord @ [Cymbiote#0450](https://discord.com/users/539946199109730304) , mail : [Agnivesh](agniveshkumar15@gmail.com)
+- 
