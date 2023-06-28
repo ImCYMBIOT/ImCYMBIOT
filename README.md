@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agnivesh Kumar, aka ImCYMBIOT
 - 👀 I’m interested in AI and ML, C++, python, Flutter, MongoDb and Graphic Designing
-- 🌱 I’m currently learning NodeJS, MongoDB, Flutter
+- 🌱 I’m currently learning NodeJS and Machine Learning
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me on Discord @ [Cymbiote#0450](https://discord.com/users/539946199109730304) , mail: [Agnivesh](mailto:agniveshkumar15@gmail.com)
