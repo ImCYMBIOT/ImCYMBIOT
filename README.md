@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ImCYMBIOT/ImCYMBIOT/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ImCYMBIOT/ImCYMBIOT/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
