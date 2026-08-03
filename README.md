@@ -2,7 +2,18 @@
 
 👋 Hi, I'm **Agnivesh Kumar**!
 
-I'm an **AI Research Engineer** passionate about **LLMs, Agentic AI, Distributed Machine Learning, and Edge AI**. I enjoy building intelligent systems that bridge research and production—from fine-tuning foundation models and designing AI pipelines to deploying scalable inference systems.
+AI Research Engineer @ IIT Kharagpur
+
+🧠 LLMs • Agentic AI • Distributed ML • Edge AI
+
+Currently:
+• Building Intent2Implementation (LLM → Arduino)
+• Fine-tuning Qwen models
+• Researching Distributed Learning
+• Building AI Infrastructure with FastAPI
+
+Open to:
+Research • AI Engineering • Remote Opportunities
 
 Currently working as a **Pre-Doctoral Research Fellow at IIT Kharagpur (SWAN Lab)**, where I focus on efficient AI systems, distributed learning, and resource-constrained deployment.
 
